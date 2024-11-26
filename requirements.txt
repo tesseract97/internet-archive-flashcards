@@ -1,0 +1,10 @@
+internetarchive==4.1.0
+flask==latest
+selenium==latest
+flask_pymongo==latest
+python-dotenv==latest
+jsonify==latest
+selenium==latest
+requests==latest
+PIL==latest
+pytesseract==latest
